@@ -247,8 +247,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Akshay Appekat**
 - 🌐 GitHub: [@akshayappekat](https://github.com/akshayappekat)
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [appekatakshay27@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/akshay-appekat]
 
 ---
 
